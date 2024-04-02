@@ -6,6 +6,10 @@
 	"homepage": "https://mpdf.github.io",
 	"license": ["GPL-2.0-only"],
 	"minimum-stability": "dev",
+"extra": {
+        "branch-alias": {
+            "dev-master": "dev-master"
+        }
 	"authors": [
 		{
 			"name": "Matěj Humpál",
