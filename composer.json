@@ -9,7 +9,7 @@
 "extra": {
         "branch-alias": {
             "dev-master": "dev-master"
-        }
+        },
 	"authors": [
 		{
 			"name": "Matěj Humpál",
