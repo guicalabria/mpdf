@@ -5,6 +5,7 @@
 	"keywords": ["php", "pdf", "utf-8"],
 	"homepage": "https://mpdf.github.io",
 	"license": ["GPL-2.0-only"],
+	"minimum-stability": "dev",
 	"authors": [
 		{
 			"name": "Matěj Humpál",
